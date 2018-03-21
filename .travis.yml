@@ -5,3 +5,11 @@ node_js:
 
 script: 
   - node --version
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: 93392801a1213084689b421a0d86bc0521335389
+  keep-history: true
+  on:
+    branch: master
