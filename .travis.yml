@@ -13,3 +13,6 @@ deploy:
   keep-history: true
   on:
     branch: master
+
+git:
+  depth: 3
