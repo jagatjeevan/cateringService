@@ -11,6 +11,7 @@ This is a spike to understand a end to end flow of a project. This project is fo
 * [Node](nodejs.org) - All the dependencies are here.
 * [React](https://reactjs.org/) - Faster rendering the component.
 * [Yarn](https://yarnpkg.com/en/) - To fix all the dependencies so that you know all the dependencies what works and what not.
+* [Webpack](https://webpack.js.org/) - To build our project.
 * [Travis](https://travis-ci.org/) - Check every commit that is pushed. Above is the status of the build.
 
 # License

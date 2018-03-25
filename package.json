@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jagatjeevan/cateringService#readme",
   "website": "https://jagatjeevan.github.io/cateringService/",
   "dependencies": {
-    "react": "^16.2.0"
+    "react": "^16.2.0",
+    "webpack": "^4.2.0"
   }
 }
