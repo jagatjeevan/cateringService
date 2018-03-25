@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/jagatjeevan/cateringService.svg?branch=master)](https://travis-ci.org/jagatjeevan/cateringService) 
-[![dependencies Status](https://david-dm.org/jagatjeevan/cateringService/status.svg)](https://david-dm.org/jagatjeevan/cateringService)
+[![dependencies Status](https://david-dm.org/jagatjeevan/cateringService/status.svg)](https://david-dm.org/jagatjeevan/cateringService) [![devDependencies Status](https://david-dm.org/jagatjeevan/cateringService/dev-status.svg)](https://david-dm.org/jagatjeevan/cateringService?type=dev)
 
 # About the project
 ---
