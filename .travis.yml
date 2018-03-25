@@ -9,6 +9,7 @@ script:
 deploy:
   provider: pages
   skip-cleanup: true
+  github-token: travisaccesstoken
   keep-history: true
   on:
     branch: master
