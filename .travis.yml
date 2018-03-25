@@ -10,6 +10,7 @@ deploy:
   provider: pages
   skip-cleanup: true
   github-token: $GH_TOKEN
+  local-dir: dist
   keep-history: true
   on:
     branch: master
