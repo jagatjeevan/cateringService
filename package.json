@@ -1,0 +1,24 @@
+{
+  "name": "cateringService",
+  "version": "1.0.0",
+  "description": "This is a spike to understand a end to end flow of a project. This project is for few of us who wants to explore and expertise new things in our sphere. This project has a vision to help the customers to find caterers in their locality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagatjeevan/cateringService.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jagatjeevan/cateringService/issues"
+  },
+  "homepage": "https://github.com/jagatjeevan/cateringService#readme",
+  "website": "https://jagatjeevan.github.io/cateringService/",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
+}
