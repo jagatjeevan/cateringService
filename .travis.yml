@@ -1,0 +1,18 @@
+language: node_js
+
+node_js:
+  - "7.2"
+
+script: 
+  - node --version
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $travisaccesstoken
+  keep-history: true
+  on:
+    branch: master
+
+git:
+  depth: 3
