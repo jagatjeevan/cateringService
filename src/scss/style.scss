@@ -1,0 +1,17 @@
+$text-shadow-color1: #525252;
+$text-shadow-color2: #699ad2;
+
+html,
+body,
+.coming-soon {
+  height: 100%;
+}
+.coming-soon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 44px;
+  font-family: fantasy;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px $text-shadow-color1, 2px 2px 4px $text-shadow-color2;
+}
