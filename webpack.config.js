@@ -22,7 +22,7 @@ module.exports = {
             presets: [
               'react',
               ['env'],
-              'stage-2'
+              'stage-3'
             ]
           }
         }
