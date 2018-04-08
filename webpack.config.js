@@ -21,9 +21,7 @@ module.exports = {
             babelrc: false,
             presets: [
               'react',
-              ['env', {
-                "modules": false
-              }],
+              ['env'],
               'stage-2'
             ]
           }
