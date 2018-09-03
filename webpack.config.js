@@ -18,7 +18,12 @@ module.exports = {
         use: {
           loader: 'babel-loader',
           options: {
-            presets: ['env']
+            babelrc: false,
+            presets: [
+              'react',
+              ['env'],
+              'stage-2'
+            ]
           }
         }
       },
@@ -30,6 +35,11 @@ module.exports = {
         })
       }
     ]
+  },
+  devServer: {
+    contentBase: path.join(__dirname, "dist"),
+    compress: true,
+    port: 2222
   },
   plugins: [
     new HtmlWebpackPlugin({

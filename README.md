@@ -5,6 +5,13 @@
 ---
 This is a spike to understand a end to end flow of a project. This project is for few of us to explore and expertise new things in our sphere. This project has a vision to help the customers to find caterers in their locality.
 
+# Get started
+## Pre-requisite
+You should have yarn and node installed on your machine. See the tech stack section to find more about installation. Use node version mentioned in *.nvmrc* file. Run the following commands to get started.
+- yarn install
+- yarn run watch
+- Open a browser and then type in localhost:2222. Application should start
+
 # Tech Stack
 * [Semantic HTML]() - The application is not only for developers to read.
 * [Sass](https://sass-lang.com/) - More than css.
